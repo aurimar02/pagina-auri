@@ -1,2 +1,1 @@
-# pagina-auri
-programación web
+
